@@ -1,7 +1,7 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
-  title: 'Size Matters, but So Does Connectivity: The Amygdala's Role in Emotional Intelligence'
+  title: "Size Matters, but So Does Connectivity: The Amygdala's Role in Emotional Intelligence"
   subtitle: ALien Brain ExtRacTion Analytics (ALBERTA) Consortium
   thebe:
     binder:
@@ -12,6 +12,9 @@ project:
     - name: Alien Brain Consortium
       affiliations:
         - Where aliens live
+    - name: Robo Neuro
+      affiliations:
+        - Where robots live
   keywords:
     - reproducible publishing
     - mystmd
