@@ -1,33 +1,28 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
-  title: 'The Role of Hippocampal Volume, Brain Density, and Network Efficiency in Alien Memory Function'
+  title: 'Size Matters, but So Does Connectivity: The Amygdala's Role in Emotional Intelligence'
   subtitle: ALien Brain ExtRacTion Analytics (ALBERTA) Consortium
   thebe:
     binder:
       url: https://mybinder.neurolibre.org
-      repo: agahkarakuzu/alienpaper1
+      repo: agahkarakuzu/alienpaper2
       ref: HEAD
   authors:
-    - name: Agah Karakuzu
-      orcid: 0000-0001-7283-271X
+    - name: Alien Brain Consortium
       affiliations:
-        - NeuroPoly, Polytechnique Montreal, Quebec, Canada
-        - Montreal Heart Institute, Montreal, Quebec, Canada
-    - name: Robo Neuro
-      affiliations:
-        - NeuroLibre, Montreal, Quebec, Canada
+        - Where aliens live
   keywords:
     - reproducible publishing
     - mystmd
     - next-gen preprints
-  github: https://github.com/agahkarakuzu/alienpaper1
+  github: https://github.com/agahkarakuzu/alienpaper2
   banner: static/banner.jpg
   venue: Neurolibre
   subject: Living Preprint
   numbering:
     headings: true
-  doi: 10.55458/neurolibre.alien1
+  doi: 10.55458/neurolibre.alien2
   open_access: true
   license: CC-BY-4.0
   abbreviations:
@@ -42,5 +37,5 @@ site:
 neurolibre:
   rees:
     runtime:
-      - name: agahkarakuzu/alienpaper1
+      - name: agahkarakuzu/alienpaper2
         ref: HEAD
