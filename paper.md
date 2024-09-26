@@ -25,6 +25,16 @@ Emotional Intelligence Score: A composite score based on tests assessing emotion
 
 ## Results
 
+### Alienarity Index
+
+:::{figure} #fig0cell
+:label: fig0
+
+Scatter plot showing the relationship between alienarity index and memory performance.
+:::
+
+### Amygdala Volume
+
 :::{figure} #fig1cell
 :label: fig1
 
@@ -35,6 +45,7 @@ Scatter plot showing the relationship between amygdala volume and emotional inte
 Amygdala volume demonstrates a positive relationship with emotional intelligence scores, particularly in the areas of emotional perception and regulation.
 Figure 2. Scatter plot illustrating the relationship between brain density and emotional intelligence score. The correlation (r ≈ 0.58) suggests that greater brain density is associated with higher emotional intelligence.
 
+### Brain Density
 
 :::{figure} #fig2cell
 :label: fig2
@@ -45,6 +56,8 @@ The scatter plot demonstrates a clear positive relationship between hippocampal 
 
 Brain density also showed a significant positive correlation with memory performance. This suggests that the density of neurons and synapses in the brain may enhance memory capacity.
 
+### Network Efficiency
+
 :::{figure} #fig3cell
 :label: fig3
 
@@ -53,8 +66,6 @@ Scatter plot showing network efficiency vs. emotional intelligence. A strong pos
 
 
 Higher brain density was moderately correlated with emotional intelligence, indicating that individuals with denser brain tissue may have greater capacity for processing emotional stimuli.
-
-
 
 A combined multiple regression analysis shows that while each factor individually predicts emotional intelligence, the combined model (adjusted R² ≈ 0.72) is a significantly better predictor, indicating that emotional intelligence depends on multiple interrelated brain characteristics.
 
